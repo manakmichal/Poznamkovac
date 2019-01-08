@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B77EC2A7-127C-4701-81FC-06B5516C232B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 154,
+  "clippingMaskMode": 0,
+  "do_objectID": "0CFDF887-20CC-4910-B468-FCB35250BAC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF7B4641-1F41-4EB4-86FB-23624F3668EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A2821F0F-DE6F-48C2-8C7A-1934617371A9",
+    "height": 24,
+    "width": 24,
+    "x": 276,
+    "y": 496
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "93AF0F09-51C2-45A5-BDF4-3FE618BEB8AE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6E4A419D-46D5-4E99-B50E-735E5FBCADF6"
+    }
+  ],
+  "name": "star/unchecked",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "011518CB-0717-4A69-A225-3D7340AFC0FF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E472849E-A709-4E42-896A-2D4A4996D828",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "672912C5-9AB4-4FEC-9041-09529903B3A1",
+    "guides": [
+    ]
+  }
+}

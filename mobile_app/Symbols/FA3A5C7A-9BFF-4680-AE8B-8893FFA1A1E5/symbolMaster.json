@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7655EED9-1F25-41E7-82E2-2F94E2744B06",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 62,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA3A5C7A-9BFF-4680-AE8B-8893FFA1A1E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C4ED173-ADAF-4D89-9FC1-B2948E247B47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C4CFB0B-7DD1-4491-AF41-2A75C95511BA",
+    "height": 24,
+    "width": 24,
+    "x": 324,
+    "y": 248
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "049379D3-7C02-4351-84FD-E9146D18BEF5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "ADF28C47-551E-400E-A7F3-043ED200B19F"
+    }
+  ],
+  "name": "Material/Icons black/close",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "20CD6573-F2B8-4672-9EC1-072C7F6EB994",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2B906653-302C-4481-906C-29C96E13D360",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "295294D9-61EE-41DE-8003-E8308CECC625",
+    "guides": [
+    ]
+  }
+}
